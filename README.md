@@ -1,3 +1,4 @@
+![Logo](https://user-images.githubusercontent.com/69382363/201076711-b61830c1-5fa3-4b21-af9b-0693b0633687.png)
 
 ## Advanced Keylogger
 Advanced Keylogger in Python with screenshot, microphone, webcam pictures taking capabilities and then send these files through email.
@@ -65,5 +66,5 @@ Mail
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-![Logo](https://user-images.githubusercontent.com/69382363/201074719-6a6e156b-0095-4efc-be84-2d5ea9cf8787.png)
+
 
